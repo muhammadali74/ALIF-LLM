@@ -33,5 +33,5 @@ This is the Final Year Project 2024, which aims to develop a Large Language Mode
 - Hammad Sajid
 
 ---
-# Acknowledgements
+### Acknowledgements
 Special thanks to our instructor and supervisor, Dr. Abdul Samad, for bringing this project idea to us, supervising the project, and for his guidance and support.  
