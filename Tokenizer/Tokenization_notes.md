@@ -1,0 +1,26 @@
+# Tokenization
+
+- Mini LM V2 produces completley different embedding because of a small error
+- https://colab.research.google.com/drive/1Gjtm4aXuWFXEXrn65sHpRL7IF-TmFBTZ
+
+- Available tokenizer https://tiktokenizer.vercel.app/?model=gpt-4o
+- We observe that simple sentences in urdu like "tum kya kr rhe ho" in urdu script escpicaly has a lot of tokens. 
+- Higher the number of tokens for a sentence, more capacity is required. If size of tokens inccrease the attention head, it affects the output
+- If "hello how are you" takes 7 tokens, and its equivalent in urdu takes 15 tokens, then the performance on urdu will be bad
+- Regex patterns are used "in gpt tokenier" to split compnentents fo text whose tokens we donot want to be merged at all. For instance we'd never want world123 maybe to become a single token or like "d1" from world123 to b a single token. Thats why we split the text using regex patterns before tokenization
+- GPT-2 an GPT-4 merges and vocab (trained sets) are avaialable in tiktoken library. However, tiktoken doesnt provide code to train tokenizer on a new data.
+- Sentence piece however, provides code to train tokenizer on the text too
+
+
+- Vocabulary size is a hyperparameter. We need to make sure it isnt too small and isnt too large. 
+- If its too large then probably the tokens generated for a text would be too much which would decrease model performance. 
+- If its too small then that would mean too many charcaters are squished in a token hence understanding context would be harder
+- If for instance (not recommend at all") no of vocab is so small that maybe two words are squished in a single token. Then that is really bad.
+- .DefaultCellStyle is a single token in gpt4o cl100k base tokenzier. So when gpt4o is asked how many "l"s are tehre in this word, the model doesnt prodouce the rigt output at once. This shows it is a pretty long token
+- One good thing about llama tokenzier over gpt is, it adds a space in teh beginngin so that "world" and " world" are tretaed as the same thing.
+- One of the reasons models are not good for non english languages is bacuase of inefficent tokenization of that language
+
+
+## TO do
+- make a gpt-based tokenizer (tiktoken, Andrej karpathay)
+- make a llama based tokenizer (sentnece pience library)
