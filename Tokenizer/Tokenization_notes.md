@@ -29,6 +29,8 @@
 - 
 - tiktoken cant be trained, study tiktoken and surgery it to use it for using it on your own trained merge and vocab. Merge and vocab can be trained using minbpe (karpathay)
 - Make notebook for training, loading, using and saving the model
+- SInce urdu caharcters and all characters that we might encounter (emojis, arabic, etc) are not in the 256 single bytes set, make a list of characters and premerge them before training
+- 
 
 ### Can we retrain or add words to a pretrained tokenizer vocabulary?
 

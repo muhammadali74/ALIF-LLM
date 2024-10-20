@@ -1,0 +1,540 @@
+Abstract 
+Issue addressed: University students generally make independent decisions 
+regarding food choices. Current Australian research about the level of nutrition 
+knowledge, sources of that knowledge and influences on food choices for this group 
+is scarce.   
+Methods: Qualitative data was collected from gender separated focus groups 
+comprising four female (n=31) and four male (n=18) to identify: nutrition knowledge; 
+sources of knowledge; factors that influence food choices; perceived relevant 
+nutrition messages; and how best to deliver them.   
+Results: Significant gaps in knowledge were identified particularly regarding number 
+of serves and serving size for food groups. Social media was the most commonly 
+reported source of knowledge.  Social media was also a major influence on food 
+choice due to its impact on body ideals.    
+Conclusion: Current health promotion nutrition messages were perceived as 
+irrelevant given the focus on long-term health risks.  Health and adhering to the 
+Australian Dietary Guidelines were not identified as significant influences. The desire 
+to look a particular way was identified as the major influence on food choice. 
+So What? While there is an awareness of Australian Dietary Guidelines, university 
+students did not to adhere to them as health is not a significant influence on food 
+choice.  This identifies a significant challenge for developing relevant preventive 
+health messages for this target audience.  
+Summary 
+Focus groups were conducted with university students’ (18-25yrs) to explore 
+influences on food choice. Currently health promotion nutrition messages were 
+perceived as irrelevant.  The major source of nutrition information was social media, 
+which was also reported as the major influence on food choice due to its impact on 
+body ideals. 
+Key words: university students, food choices, body ideals, social media. 
+1	
+Introduction 
+Emerging adulthood describes the ages 18-25 years (1), when individuals are 
+establishing independence and taking responsibility for life choices, including health 
+behaviours (2).  As such this group is an important target population for health 
+promotion and disease prevention. Previous research indicates that very few 
+emerging adults meet current dietary guidelines, often consuming diets high in 
+saturated fats, sugar and sodium along with decreased vitamin, mineral and fibre 
+intake, all of which are associated with later life obesity and chronic disease (3, 4). 
+The Australian Bureau of Statistics (5) reports that emerging adults are less likely 
+than any other age group to consume recommended amounts of fruit and 
+vegetables. They also typically display erratic eating behaviors and tend to skip 
+meals (3, 4, 6).  
+While some research has occurred with emerging adults internationally, little 
+research has explored the evolving social influences affecting food preferences of 
+Australian emerging adults (2), and in particular Australian university students. 
+Emerging adulthood is a time when living situation may change and this can 
+influence food intake.  Mullan et al.  (28) found that as emerging adults leave home 
+and live independently there is a decline in healthy dietary habits. Specific to 
+university students a study of four European countries reported participants who had 
+moved away from their parental home identified a lower consumption of healthy 
+foods, specifically fruit and vegetables (7). The authors speculated that students 
+living at home did not have to pay for their food so financial constraints may not 
+restrict the purchase of healthy food.  In addition, meals containing nutritious foods 
+such as vegetables were more likely to be prepared for them when living with parents 
+therefore healthier food was more freely available compared to food options available 
+to the students living away from home.  Furthermore, Jackson and Berry (8) reported 
+that those  living at home with parents were more likely to bring a packed lunch, which 
+may act as a protective factor against the consumption of fast food during their day 
+at university.  
+Kelly, Mazzeo, and Bean, (27) identified that living with other 
+university students can negatively influence eating behaviors because of a lack of 
+peer support to eat healthily. Devine and Lloyd (9) found that university students in 
+Northern Ireland who lived alone were more likely to eat fresh vegetables and salads 
+regularly compared to students who lived with other students. This peer influence is 
+2	
+further reinforced by McArthur and Pawlak (10) who reported that American 
+university students perceived their peers did not enjoy consuming healthy food and 
+this influenced their own food choices.  
+While nutrition knowledge is assumed to influence dietary habits and food 
+preferences, Al-Khamees (11) study involving university students from Kuwait 
+enrolled in nutrition and education courses noted that many were genuinely surprised 
+that their diet did not comply with dietary guidelines. Even for this knowledgeable, 
+unique, target group translating dietary guidelines into their food choices was difficult. 
+While not specific to university students, an Australian study by Kothe and Mullan 
+(12) identified that emerging adults also had significant knowledge gaps regarding 
+serving size and quantity of fruit and vegetables recommended by the Australian 
+Dietary Guidelines and appeared to have insufficient knowledge of food preparation 
+and cooking skills.  The authors suggested more research is needed to investigate 
+these knowledge gaps and how these gaps might influence food choice in emerging 
+adults (12). 
+Australian public health campaigns have attempted to increase nutrition knowledge. 
+The Go for 2 and 5 campaign, primarily targeted parents of children aged up to 17 
+years with the secondary target group youth aged 13-17 years and aimed to increase 
+fruit and vegetable consumption by increasing knowledge of the importance of 
+consuming these foods (13).  Several follow-on campaigns such as Measure Up in 
+2008, Swap it Don’t Stop it in 2011 and the Live Lighter campaign in 2014, linking 
+increased waist measurement with risk of chronic diseases targeted 25-50 year olds 
+and focused on weight reduction messages (14).  Emerging working adults however, 
+appear to place little importance on the prevention of chronic disease because they 
+believe this will not affect them until they are much older. Consequently, the 
+consumption of healthy food is not considered a priority as there is no sense of 
+urgency regarding the importance of food choices for health and wellbeing (6, 15). 
+No known research has considered if university students also have this perception.  
+To date, in Australia there have been no public health campaigns that target 
+emerging adults and specifically university students’ nutrition knowledge and food 
+intake. Furthermore, it is unknown if health promotion campaigns delivered via the 
+traditional media (television and radio) would resonate with this population. It is 
+possible however, that they have been exposed to these campaigns along with a 
+variety of other nutrition messages from media including the internet and social 
+3	
+media.  It is a reasonable assumption therefore that these sources of nutrition 
+information may impact on their nutrition knowledge. To the author’s knowledge this 
+is the first Australian study to investigate this assumption.  
+Social media is an increasingly popular way for users to be both creators and 
+consumers of health information by providing a platform to share, discuss, create, 
+modify and exchange information with the ‘on-line’ networks (16). As 18-29 year old 
+social media users are more likely to repost images and video (17) it is potentially an 
+important vehicle to disseminate nutrition information. However, Wong and Merchant 
+(16) cautions that the information they engage with may be inaccurate, misleading or 
+misinterpreted and therefore lead to health risk behaviours (16). Little research has 
+explored if social media would be effective in delivering nutrition messages to 
+university students.   
+Given the lack of evidence regarding Australian emerging adults’ nutrition knowledge 
+and the sources of this knowledge it is important to explore this as a potential 
+influence on eating behaviour.  This information can be used to inform the 
+development and best delivery of relevant and targeted nutrition messages as a key 
+element of chronic disease prevention. 
+Hence the aims of our study were to identify: 
+1. Nutrition knowledge among university students;
+ 2. Sources of nutrition information and preferred source of information among
+ university students
+ 3. Factors that influence food choice and eating behaviour of university students;
+ 4. Nutrition knowledge relevant to university students and how best to deliver
+ nutrition messages to the target audience.
+ Methods 
+A qualitative approach using focus group was chosen to provide participants the 
+opportunity to describe their experiences in their own words thus providing the 
+researcher a clearer understanding of the experiences as seen from the individual’s 
+point of view (18, 19). University students aged 18-25 years currently studying at a 
+private university in Australia were invited to participate in focus group discussions.  
+Ethics approval was obtained through the university’s Human Research Ethics 
+committee prior to conducting this research (Ref: 015126F).  A total of 49 students 
+4	
+aged 18-25 years self-selected to participate from a variety of learning areas 
+including Schools of Medicine, Arts and Sciences, Health Science, Business, and 
+Philosophy and Theology.  Gender separated focus groups were conducted 
+consistent with focus group methodology that advises homogeneous groups assist 
+participants to feel equal and to get to know each other more quickly so they feel 
+comfortable to share ideas and information (20). Focus groups were conducted until 
+the research team determined that data saturation had been met.  A total of eight 
+focus groups, four female groups (n=31) and four male groups (n=18) were 
+conducted.  
+Experts in qualitative research and nutrition developed the interview schedule for the 
+focus groups. It was piloted with a small group of university students to ensure the 
+questions elicited appropriate responses. The same interview schedule was used for 
+all focus groups. Each focus group session was allocated 90 minutes. The primary 
+author, experienced in conducting focus groups conducted all focus groups (21). An 
+independent note taker recorded additional notes and non-verbal interactions of 
+participants to augment the audio-recording (22). 
+Analysis 
+With consent from participants, the focus groups were taped by the lead author, then 
+transcribed verbatim by an independent contractor, with these transcripts checked by 
+the lead author to ensure accuracy (6, 22).  Content was analysed and coded by the 
+lead author to establish categories and identify the frequency by which they occurred 
+(23).  These categories were identified across the focus groups and any new themes 
+were categorised as they emerged.  Verification checks occurred by co-authors to 
+ensure agreement in identification of categories (22).  The data was then re-analysed 
+using NVivo data analysis software v11 (24) , validating the categories and sub 
+categories established by the initial content analysis. 
+Results 
+Common factors influencing food choice, including those that related to nutrition 
+knowledge were grouped into two major categories: internal and external influences.  
+Two additional categories emerged: nutrition knowledge deemed relevant by 
+emerging adults and preferred delivery method of nutrition knowledge.  
+5	
+Internal influences on food choice 
+Internal influences sub categories included: level of nutrition knowledge based on the 
+Australian Dietary Guidelines; knowledge of serving size for different food groups; 
+perceived relevance of dietary guidelines; compliance to dietary guidelines; body 
+image, appearance and weight control; and cooking skill and confidence. 
+Knowledge of Australian Dietary Guidelines 
+The majority of the participants were aware of the Australian Dietary Guidelines (25) 
+with the most popular recollection being the visual format of the healthy food 
+pyramid.   
+“Is that the food pyramid stuff?”  - [Female Group 2 (FG2)]  
+There was consensus that fruit and vegetables comprised the bottom “eat most” 
+section of the pyramid hence were healthy.  Also, there was consensus that sugar 
+was at the top of the pyramid indicating, “eat least”.  All other details regarding the 
+structure of the pyramid varied.  There was some confusion over the positioning of 
+carbohydrates such as bread, pasta and rice, some participants indicated these were 
+“eat sometimes” and should not be eaten as frequently as fruit and vegetables, but 
+the majority believed that they were on the same level as fruit and vegetables. The 
+greatest confusion was regarding the correct positioning of meat and dairy products.  
+Knowledge of serving sizes 
+When prompted about serving sizes for different food groups there was a high level 
+of disagreement and confusion.  The majority agreed that it varied from food to food 
+but they were unsure regarding what constituted a serving size 
+“In terms of actual (serving size) recommendations, I couldn’t visualise one.” – [Male 
+Group 2 (MG2)]. 
+“A serving size is about the palm of your hand” [FG4],  
+“I thought it was the size of a deck of cards” [FG2], 
+“A cup” [MG1],  
+“It depends who you talk to” [FG4] 
+While there was a general awareness of the Australian Dietary Guidelines (25), the 
+majority indicted that they did not adhere to the guidelines. Of particular concern not 
+following the dietary guidelines was identified as a choice rather than lack of 
+awareness.   
+6	
+“I think the guidelines are good and I have a fair idea of what they are, but nine times 
+out of ten,  I won’t follow them” – [MG1].    
+“We know we’re not following them. It’s a deliberate choice” [FG2].  
+The most common reason for not adhering to the guidelines was they lacked 
+importance or relevance due to no sense of urgency.  The majority stated that 
+healthy eating and following the guidelines only became relevant as a person grew 
+older or started experiencing ill health or significant weight gain. 
+“I don’t care enough! … because of my build I’ve never really had any weight 
+problems. But it may be something that occurs in the future. But at the moment, I 
+don’t have any reason to really change how I’m eating.”  [FG3].  
+“We kind of have the impression that we’re young, we don’t need to worry about it at 
+this point and we’ll cross that bridge when we’re 35 and have high cholesterol.” 
+[MG2].    
+Body image, appearance and weight control 
+The majority of participants expressed that food choices, eating and eating 
+behaviours were heavily influenced by body ideals. 
+“Looking good is the biggest motivator for people our age.” – [FP3] 
+“It’s much more about looks rather than general health” [MG3]. 
+While the desire to ‘look good’ was expressed in all focus groups, the female groups 
+consistently mentioned weight control and being skinny as the desired appearance. 
+Some added they felt pressure from society to conform to the thin ideal. 
+“Yes.  It’s about appearance more than anything else…in advertising they use very 
+slim attractive people and you think, ‘Oh if I want to look like that then I should eat 
+this’ or ‘ I shouldn’t eat this...” [FG1]. 
+“Society pressure, perception that women should look skinny, amazing…and eat 
+nothing” [FG4].   
+Of particular concern was the general perception among females that being skinny 
+was associated with being healthy.  
+“People perceive skinny as being healthy” [FG1]. 
+Weight control was mentioned less by male participants and their desire to ‘look 
+good’ had a different focus.  Muscle gain and how to best achieve it was mentioned 
+most by the males.  
+7	
+“Guys focus on eating the right sort of portions, so that they can gain the most 
+weight, or muscle mass or fitness… but are those diets really healthy?” [MG2]   
+“It tends to be more muscle gain for the blokes and weight loss for the girls.  It’s the 
+pressure of every guy wanting to be huge and every girl wanting to be stick thin.” 
+[MG3].  
+Cooking skill and confidence 
+Cooking skills were identified as important for eating a healthy diet. Cooking skill and 
+confidence was also linked to cost. While these factors strongly influenced food 
+choices for males they were also a consideration for females. However, females 
+generally expressed more confidence in cooking skills than males.   
+“Cooking skills are also a very big factor – I have very limited cooking skills. If it’s 
+going to take too long to prepare, or it seems a bit too complex, then I’m more likely 
+to just go out and buy something.” – [MP2]   
+Whether or not you can cook influences your food choice – if you can’t cook then you 
+go and get take away.” [FG1] 
+Cooking skill and confidence was also linked to cost with many participants 
+concerned about spoiling food and therefore wasting money. 
+“You might have spent a lot of money on an expensive meal to prepare, and you 
+burn it or stuff it up or something.” [MG2]. 
+External influences on Food Choice 
+External influence of food choice included: sources of nutrition knowledge; current 
+living situation and peer influence; cost, convenience, time and effort required. 
+Sources of nutrition knowledge 
+Social media was the most common source of nutrition knowledge with the majority 
+indicating that they do not search for nutrition information but they are exposed to it 
+constantly. 
+“I don’t think people really search for it [nutrition information]; if it comes up in social 
+media then maybe people read about it.”   – [FG2] 
+Both males and females commented that the majority of nutrition information on 
+social media was accompanied by images of thin females and muscular males 
+‘looking fit, healthy and happy’. These images were associated with participants’ 
+knowledge about what contributed to being healthy.  
+8	
+“Slim fit girls are presented on social media as being in their active wear, drinking a 
+smoothie.  Fit muscular guys are all about the supplements, how to get large.” [MG4]. 
+“Instagram promotes this ideal that ‘healthiness equals happiness’ and that’s what 
+everyone is striving for” [FG2].  
+While social media in general was mentioned, there was a notable difference 
+between males and females in the social media platforms used. While Facebook was 
+identified evenly across the male and female groups, Instagram was frequently 
+mentioned by females but rarely by males as a source of nutrition information.  The 
+volume of nutrition information on social media were accompanied by images that 
+created the desire to look ‘fit and healthy’ and contributed to body dissatisfaction. 
+Some participants indicated they were aware that the images were unrealistic but 
+were still envious and strived to look like the bodies portrayed in the images. 
+“On Instagram in particular there are a lot of unrealistic portrayals of particularly 
+girls…the pictures are very colourful and the girls look very happy and skinny, which 
+brings out envy”. [FG2]  
+Participants all spoke of the high number of celebrities and micro-celebrities (those 
+who have become famous via social media) that promoted diets, supplements and 
+exercise programs.   
+“You see a lot of links on social media to things like ‘super diets’ or ‘my friend did this 
+and had these results in 12 weeks” [MG3].  
+“Perfect bodies on the paleo diet.  Stuff like that is all over social media.” [FG4].  
+“The sheer amount of pages on Instagram – all of them are just of girls in their bikini, 
+or of their meal.  You can’t go through your (news) feed without seeing them.” [FG4] 
+Accuracy of the nutrition information on social media was generally not a concern 
+with the majority indicating that the most popular measure of ‘accuracy’ was to ask 
+friendship group if they had tried the diets or supplements and check if any had 
+positive results.  When asked to clarify what was meant by ‘a positive result’ the 
+common theme again was appearance. 
+“I want to look fit and lean.” [MP4]  
+“Losing weight and looking good” [FG3]. 
+Participants were asked if they could recall any health promotion campaigns as these 
+may have contributed to nutrition knowledge.  Recognition of the Live Lighter 
+campaign and the Go for 2 & 5 campaign were high with all female groups and the 
+9	
+majority of male groups.  While recognition was high, participants agreed that they 
+were not the target audience with many questioning the relevance of these 
+campaigns to their age group.  
+“I don’t think they target us” [MG3] 
+“They use middle age people in those commercials…it doesn’t feel relevant to us” 
+[FG1] 
+While most identified a key message of the Live Lighter campaign was to reduce 
+intake of sugary drinks they indicated this message did not motivate behaviour 
+change. 
+“I probably drink a lot more soft drink than I should, but then I’m still skinny.  So you 
+wonder if anything is really going to happen.  It makes me think about it, but it doesn’t 
+change my behaviour.” [MP3].   
+Furthermore, the health consequences outlined in the campaign felt irrelevant to the 
+participants because health consequences were ‘future concerns.  
+“I can’t image my visceral fat being that bad compared to that man.  It doesn’t feel 
+relevant.” [FP4].   
+“People (our age) don’t think the consequences of those ads will happen to them” 
+[MG3].   
+Both male and female participants were adamant that focusing on negative 
+consequences associated with food choice had no impact on their eating behaviour.  
+“Health promotion messages are so negative – like this is what happens to your gut 
+when you drink coke.  I know it’s supposed to have an impact, but I don’t feel like it 
+has a significant impact.” [FG3].  
+“There is as sense that it’s not urgent and that it doesn’t apply to us” [MG4]  
+Living situation and peer influence 
+There was consensus that living at home with parents had a positive influence on 
+food intake because parents stocked the fridge and pantry, which to some extent 
+dictated food choice.  Participants also noted the quality and variety of food improved 
+when living at home with parents mainly due to the associated high cost of healthy 
+food.   
+10	
+“When you’re living at home, you can’t really control what your Mum and Dad buy 
+and put in the cupboard, as opposed to when you live independently… you can.” – 
+[FP2]. 
+“If you’re by yourself your main consideration is finances rather than your health. 
+Healthy food is more expensive” [MG2]. 
+Consequently, the majority indicated that living at home made it easier to eat healthy 
+food. Mothers were identified as a positive source of information and influence on 
+food choice  
+“My Mum always served veggies or salad with meals, and now it’s just become a 
+habit rather than a knowledge of the guidelines.”  [MP1]. 
+“It comes back to cost.  Last year I was out of home and not eating well at all – I was 
+just eating whatever was on special.  Now I’m back home, mainly to save money, 
+Mum and Dad provide much more variety and better food.  It makes a big difference” 
+[MG3]. 
+The majority indicated that being with friends, socially and also living with peers 
+increased the likelihood of choosing unhealthy food.  
+“It depends on who you’re with – if I’m hanging out with friends that are eating junk 
+food, then I’ll eat it with them.”  - [FP3] 
+“If you’re sharing a house with friends, you’re generally influenced by what your 
+friends cook.  So if there’s someone cooking, then you might be inclined to cook 
+more, but if someone’s always going out to get crap food, then you’re more inclined 
+to do that as well” [MG3]  
+Cost, convenience, time and effort required 
+Regardless of living situation cost, convenience, time and effort required were 
+recurring themes across all focus groups having significant impact on their food 
+choices. There was a very strong perception among participants that university 
+students consumed fast foods because they were cheaper and more convenient 
+even though they acknowledged it was unhealthy.  
+“You’re normally going for the cheap stuff, which ends up being the bad stuff” [FG3].  
+While cost and convenience made fast food an attractive option another influencing 
+factor was effort.  Many participants identified that healthy eating required more time, 
+effort and preparation than they were prepared to give. 
+11	
+“It’s a lot easier to just go and get take away then it is to actually make something, 
+especially if you’re home late. Because you have to go to the effort of buying it, 
+making it, and cleaning up afterwards.” [MP4]  
+Nutrition knowledge emerging adults want and how best to deliver it 
+Weight loss and appearance was again the predominant focus of the type of 
+information participants wanted. Related to weight loss, many identified a need for 
+accurate information particularly regarding serving sizes.  
+“It’s important to know how big a serving size is, because frequently you think it’s 
+bigger than it actually is [FP2]   
+“A lot of people don’t realize it’s not just eating healthier, it’s lowering your portion 
+size as well that helps lose weight” [MG2].   
+Accurate information regarding healthy ways to lose weight quickly was considered 
+important particularly by female participants.   
+“The quickest way to lose the weight and being healthy as possible” [FG1]   
+The majority identified that correct information regarding fad diets would also be 
+relevant to ensure more of a balance of food consumed. 
+“People go on extreme diets where they just focus far too much on eating one type 
+of food, when there needs to be more of a balance” [MG3]  
+“People our age need information about skipping meals and meal replacements 
+shakes; how they are not effective in actually helping people lose weight” [FG2]. 
+Participants highlighted that nutrition information focusing on body image and 
+appearance rather than health risks would be more relevant.  
+“The approach needs to be image based - not ‘it’s going to make you ‘feel better’ but 
+‘it’s going to make you look better’…results that appeal to us might make a 
+difference” [MG1].   
+Many participants, especially females, indicated they would like to see more of a 
+positive body image focus.  
+“Promoting what is a realistic amount of weight loss for different body types” [FG4]   
+“Not using unattainable, un-realistic bodies or celebrities, just use normal people” 
+[FG3].  
+12	
+Participants also identified that nutrition messages need to be more positive 
+and focus on immediate benefits rather than long term health risks.  
+“It comes down to promoting fun - not ‘don’t eat this, don’t do this’.  Finding a way to 
+say ‘hey look what you can do if your actually get out there and do stuff and you eat 
+good food – it’s fun” [FP3].   
+“Might be more effective if they focus on something that we can see or feel almost 
+immediately” [MG4].  
+Another important aspect mentioned by participants related to cost of food.  It was 
+strongly suggested that healthy food be more cost effective.   
+“If you made the healthier, more nutritious food cheaper than the less healthy foods 
+that could make some difference” [MP1]  
+“Cheap places to pick up vegies and maybe healthy cheap meal ideas” [FG2]. 
+Regarding how best to deliver nutrition Information there was consensus it should be 
+online incorporating social media (Figure 1). 
+“People our age don’t watch TV…it’s got to be online” [MG3].   
+“Social media because that’s what we’re exposed to the most – but the dietary 
+guidelines aren’t on social media” [FG3].  
+Discussion 
+This study provides an Australian context to international evidence regarding 
+influences on dietary behaviour among university students aged 18-25 years (2, 7, 9- 
+11, 26, 27). Findings confirm that the cost of food when living independently 
+influences food choice with a strong perception among participants that healthy food 
+costs significantly more than unhealthy food (7, 8, 28).  Also consistent with 
+international studies the participants in this study acknowledged that peers 
+influenced their decision to consume unhealthy foods, while living with parents 
+positively affected this food choice (9, 10, 27). This study also identified that cooking 
+skills and confidence, as well as time and effort required in the preparation of food, 
+were considerations with participants reporting that convenience, confidence and 
+cooking skill often influences food choices.  More research needs to be conducted to 
+further explore how significant these influences are on food choice. 
+Our findings also show similarities with previous research regarding Australian 
+emerging adults’ diets not adhering to recommended dietary guidelines (3, 29, 30). 
+A novel finding of this study is that while emerging adults have some knowledge 
+13	
+regarding the Australian Dietary Guidelines (25) they deliberately choose not to 
+follow them because they do not consider healthy eating a priority or relevant to their 
+age group, and its information is not promoted on social media. While previous 
+health promotion campaigns in Australia have attempted to promote the importance 
+of healthy eating, (13, 31, 32), they have not specifically targeted emerging adults. 
+Although our study supports previous findings that suggest some key messages 
+such as eat more fruit and vegetables and less sugar seem to reach Australian 
+university students (11, 12, 33, 34), these messages do not translate to eating 
+behaviour. For example, participants identified difficulty in translating messages such 
+as Go for 2&5 in ‘real life’ food choices due to confusion over what constitutes a 
+serving size. Further, many Australian campaigns have focused on the effects of 
+poor nutrition, such as obesity, visceral fat on vital organs, diabetes, high blood 
+pressure, cancer and heart problems. While participants could recall messages from 
+campaigns such as Live Lighter they perceived these messages as irrelevant and 
+reported they had no influence on food choice because the health consequences 
+highlighted generally occur in middle age or even later. Consequently, our study 
+participants were not motivated to change their food choices because there is no 
+sense of urgency (6, 11, 12, 15, 35).  
+Regarding sources of nutrition knowledge, participants indicated that they do not 
+watch commercial television, which has traditionally been the major medium for 
+communicating public health messages.  To the authors knowledge this is the first 
+Australian study that identifies social media as the most commonly used source of 
+nutrition knowledge for emerging adults.  Participants in our study were engaged by 
+and frequently shared nutrition information in the form of fad-diets and exercise 
+programs ‘posted’ by celebrities and micro-celebrities that they ‘follow’. They 
+acknowledged they followed these programs, regardless of the nutritional value or 
+efficacy of the exercise programs which is concerning, given all the participants were 
+university students with many studying health related degrees. As the majority of 
+these programs and accompanying messages focus on body ideals this could 
+explain why appearance and body dissatisfaction, generally in the form of weight 
+control, emerged as the largest influence on food choice for the participants in our 
+study.  The majority of participants stated that their interest in nutrition information 
+shared on social media was ‘sparked’ based on the appearance of the person in the 
+‘post’. The majority of the ‘posts’ contained images of thin, bikini-clad young woman 
+and fit, lean, muscular young men.  This adds to the findings of Tiggemann and Miller 
+14	
+(36) in their study of adolescent girls which found girls who spent more time on social 
+media had higher levels of drive for thinness.   
+Another new finding reported by our study is that social media users do not 
+specifically search for nutrition knowledge rather they have constant access to 
+nutrition information via their ‘newsfeed’. Accuracy of this information was not a 
+significant concern to participants, with most simply asking their friends if they have 
+tried the particular diet or supplement ‘trending’ on social media and what were their 
+‘results’.  The majority reported the desired ‘results’ of these diets and supplements 
+were to look ‘fit and lean’ and looking this way was associated with being healthy. 
+Given that approximately 89% of online 18-29 years olds are regularly using social 
+media (37) the consumption of ‘weight and appearance’ focused nutrition information 
+is clearly contributing to the participants’ perception that being skinny (for females) 
+and muscular (for males) means that a person is healthy. While all participants 
+identified social media as the major source of nutrition knowledge, female 
+participants specifically identified Instagram as the primary social media platform 
+utilised.  Given that Instagram is an image based platform this may be further 
+contributing to the emphasis on weight control and appearance, which may be 
+reinforcing the perception that being thin is ideal and also healthy.  Further 
+reinforcing these ‘thin ideals’ may be the ‘weight control’ approach to nutrition that 
+has been utilized by Australian health promotion campaigns such as Live Lighter (14, 
+31, 32). Females in our study acknowledged there was societal pressure to conform 
+to the thin ideal.  Regardless of gender, this belief that appearance is the main 
+marker of health is concerning as it may further contribute to body dissatisfaction and 
+influence food choices among emerging adults as a way of achieving this thin or buff 
+body. More research focusing with this target group is needed to further understand 
+these associations.  
+The findings of this study must be considered in light of some limitations. The 
+participants were a convenience sample drawn from one university campus, however 
+replication of some results suggest this group is similar to others university and 
+college based studies reported in the literature.  As a select sample  of university 
+students, their education level may mean that their nutrition knowledge is higher 
+than other groups of emerging adults therefore, results and associations cannot be 
+generalised to the whole emerging adult community.  While the sample may not be 
+fully representative of the emerging adult population, the participants were keen to 
+have their voices heard and provided in depth insights into the influences on their 
+15	
+food choices and implications for communicating nutrition information. A strength of 
+the study was the design that adhered to focus group methodology hence saturation 
+of categories was achieved and the initial content analysis was validated by the 
+content analysis performed through NVivo v11 (24) adding to the rigour of the 
+results.   
+Conclusion and implications 
+Given that emerging adults attending university do not consider dietary guidelines or 
+health promotion campaigns relevant, the findings of this investigation have 
+implications for preventive health strategies targeting this age group. Future 
+campaigns should therefore deliver positive nutrition messages  and present benefits 
+of healthy eating rather than on future health risks. In addition, accurate information 
+regarding serving sizes was identified as important because participants found it 
+difficult to translate current nutrition messages into actions they could utilise in their 
+daily lives. Participants also indicated that it was necessary for healthy food to be 
+made more affordable to encourage healthy eating.  Therefore, future health 
+promotion campaigns could include suggestions for accessing and preparing low 
+cost healthy ingredients and meals, as these may positively influence food choice. 
+There was also a desire for accurate information regarding current fad-diets as well 
+as healthful strategies for weight loss.  This presents a challenge for health 
+promotion to counteract current appearance related perceptions regarding health in a 
+rapidly changing, social media saturated environment that heavily promotes thin or 
+muscular body ideals. There were calls for more realistic body shapes on social 
+media, especially by the female participants. Perhaps this is where health promoters 
+should direct their attention because the insidious nature of the constant appearance 
+comparison ever present on social media makes it unrealistic for many to achieve the 
+current ideal body in a healthful way.   
+Not only should the nature of messages change but also the mode of delivery.  Given 
+the participants in this study do not watch television and identified social media as 
+the preferred source of nutrition information, health professionals need to rethink how 
+to best communicate future public health nutrition messages to this audience. While 
+social media appears to negatively influence perceptions of health and eating 
+behavior it may also provide the potential solution. However more research is 
+needed regarding potential barriers and challenges associated with social media and 
+emerging adults health behaviours (38).  Many platforms exist in the social media 
+16	
+space and little is known about which platform would be the most effective for this 
+target group.  The results of this study indicate that Instagram could be an avenue for 
+further investigation as female participants identified it as their most commonly 
+utilised social media platform.  Clearly, more research in this area is required to 
+confirm the findings of our study so that emerging adults’ transition into adulthood 
+with accurate, useful nutrition knowledge that will potentially result in a healthy diet 
+and the accompanying health benefits (2, 12, 26).
